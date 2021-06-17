@@ -1,0 +1,21 @@
+|Movie|2000|Spider-Man 3|Sam Raimi|19.99|5|0|
+|Movie|2001|Blades of Glory|Josh Gordon and Will Speck|15.99|9|0|
+|Book|1009|C++ Programming: From Problem Analysis to Program Design, Fourth Edition|D.S. Malik|Feb 12, 2008|114.95|9|0|
+|Book|1010|Absolute C++ (3rd Edition)|Walter Savitch|Mar 17, 2007|113.00|2|0|
+|Book|1011|Problem Solving with C++: The Object of Programming|Walter Savitch|Mar 1, 2008|83.00|6|0|
+|Book|1002|Federal Taxation: Comprehensive Topics (2008)|Ted D. Englebrecht|2007|154.00|0|5|
+|Movie|2002|3:10 to Yuma|James Mangold|14.99|3|0|
+|Movie|2008|The Nanny Diaries|Shari Springer Berman and Robert Pulcini|10.99|6|0|
+|Book|1000|Special Topics in Calamity Physics|Marisha Pessl|April 24, 2007|15.00|9|0|
+|Book|1001|Bello, Topics In Contemporary Math Ninth Edition|Ignacio Bello, Jack R. Britton, and Anton Kaul|Jan 2, 2007|133.16|1|0|
+|Movie|2003|Transformers|Michael Bay|23.99|10|0|
+|Movie|2004|Dan in Real Life|Peter Hedges|14.99|2|0|
+|Movie|2007|American Gangster|Ridley Scott|15.99|1|0|
+|Book|1007|C++ Primer Plus (5th Edition)|Stephen Prata|Nov 25, 2004|54.99|0|11|
+|Book|1008|The C++ Standard Library: A Tutorial and Reference|Nicolai M. Josuttis|Aug 22, 1999|74.99|3|0|
+|Book|1003|Head First Java, 2nd Edition|Kathy Sierra and Bert Bates|Feb. 9, 2005|44.95|0|1|
+|Movie|2005|Michael Clayton|Tony Gilroy|19.99|0|3|
+|Movie|2006|Knocked Up|Judd Apatow|15.99|0|2|
+|Book|1004|Java How to Program (7th Edition)(How to Program)|Harvey & Paul|Jan 6, 2007|113.00|8|0|
+|Book|1005|Learning Python, 3rd Edition|Mark Lutz|Oct 22, 2007|39.99|5|0|
+|Book|1006|Python Programming: An Introduction to Computer Science|John M. Zelle|Dec 2003|40.00|15|0|
